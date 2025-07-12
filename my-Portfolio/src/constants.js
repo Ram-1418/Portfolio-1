@@ -43,15 +43,16 @@ import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
-import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
-import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
-import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+import healthfirst from './assets/work_logo/healthfirst.png';
+import Highwaygard from './assets/work_logo/Highwaygard.png';
+import Yatramitra from './assets/work_logo/yatramitra.png'; 
+import aileeter from './assets/work_logo/ailetter.png';
+import movie from './assets/work_logo/movie.png';
+import blog from './assets/work_logo/blog.png';
+
+
+
+
 
 
 export const SkillsInfo = [
@@ -176,30 +177,30 @@ export const SkillsInfo = [
   export const projects = [
   {
     id: 0,
-    title: "Highwat Gard",
+    title: "Highway Gard",
     description:
       "A highway garden monitoring system that uses smart technology to track maintenance, plant health, and environmental data. Designed to improve roadside landscaping and sustainability through a user-friendly React.js interface.",
-    image: githubdetLogo,
+    image: Highwaygard,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
     github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    webapp: "https://githubprofiledetective.netlify.app/",
+    webapp: "https://alaskas.tech/",
   },
   {
     id: 1,
     title: "Yatra Mitra dev",
     description:
       "A travel assistant platform tailored for GATE/UGC NET students, helping them plan study journeys with quiz-based learning, past-year question practice, and smart test generation tools.",
-    image: csprepLogo,
+    image: Yatramitra,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/codingmastr/CSPrep",
-    webapp: "https://csprep.netlify.app/",
+    webapp: "https://yatramitra.alaskas.tech/",
   },
   {
     id: 2,
     title: "Ai-Letter Generater",
     description:
       "An AI-powered web app that generates formal letters, resumes, or custom content instantly. Just input your context, and the tool crafts a well-structured letter using NLP techniques.",
-    image: movierecLogo,
+    image:aileeter ,
     tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/codingmastr/Movie-Recommendation-App",
     webapp: "https://movie-recommendation-app-jet.vercel.app/",
@@ -209,9 +210,9 @@ export const SkillsInfo = [
     title: "Movie Search App",
     description:
       "A sleek and responsive movie search application using public movie APIs. Find movies by title, view detailed info, and explore genres with ease.",
-    image: npmLogo,
+    image:movie ,
     tags: ["React JS", "Node.js", "NPM", "Validation"],
-    github: "https://github.com/codingmastr/cmtk-email-validator",
+    github: "https://github.com/Ram-1418/chai-and-react",
     webapp: "https://www.npmjs.com/package/cmtk-email-validator",
   },
   {
@@ -219,7 +220,7 @@ export const SkillsInfo = [
     title: "Health-First",
     description:
       "A Chrome extension focused on boosting productivity and well-being. It reminds users to take breaks, stretch, hydrate, and focus on healthy habits throughout the day.",
-    image: taskremLogo,
+    image: healthfirst,
     tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
     github: "https://github.com/codingmastr/Task-Reminder-Tool",
     webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
@@ -229,19 +230,10 @@ export const SkillsInfo = [
     title: "Blog-App",
     description:
       "A modern blog platform that allows users to create, edit, and explore tech blogs. Built with clean UI and smooth animations using Framer Motion and JavaScript.",
-    image: webverLogo,
+    image: blog,
     tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
     github: "https://github.com/codingmastr/Webverse-Digital",
     webapp: "https://webversedigital.com/",
   },
-  {
-    id: 6,
-    title: "Weather App",
-    description:
-      "A real-time weather forecast app that displays temperature, humidity, wind, and other metrics. Users can search by city and get visually appealing weather updates.",
-    image: cmLogo,
-    tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-    github: "https://codingmasterweb.in/",
-    webapp: "https://codingmasterweb.in/",
-  },
+  
 ];
