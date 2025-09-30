@@ -185,7 +185,7 @@ export const projects = [
       "A modern blog platform that allows users to create, edit, and explore tech blogs. Built with clean UI and smooth animations using Framer Motion and JavaScript.",
     image: blog,
     tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-    github: "https://github.com/codingmastr/Webverse-Digital",
-    webapp: "https://webversedigital.com/",
+    github: "https://github.com/Ram-1418/Blog-app",
+    webapp: "https://blog-app-one-ivory.vercel.app/",
   },
 ];
