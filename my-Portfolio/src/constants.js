@@ -145,7 +145,7 @@ export const projects = [
       "CSS",
       "JavaScript",
     ],
-    github: "https://github.com/codingmastr/CSPrep",
+    github: "https://github.com/Ram-1418/yatra-mitra-dev",
     webapp: "https://yatramitra.alaskas.tech/",
   },
   {
@@ -155,7 +155,7 @@ export const projects = [
       "An AI-powered web app that generates formal letters, resumes, or custom content instantly. Just input your context, and the tool crafts a well-structured letter using NLP techniques.",
     image: aileeter,
     tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/Movie-Recommendation-App",
+    github: "https://github.com/sonu-shivcharan/templatz",
     webapp: "https://templatz.vercel.app/",
   },
   {
@@ -175,8 +175,8 @@ export const projects = [
       "A Chrome extension focused on boosting productivity and well-being. It reminds users to take breaks, stretch, hydrate, and focus on healthy habits throughout the day.",
     image: healthfirst,
     tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-    github: "https://github.com/codingmastr/Task-Reminder-Tool",
-    webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
+    github: "https://github.com/Ram-1418/Hackathon",
+    webapp: "https://health-first1.netlify.app/",
   },
   {
     id: 5,
